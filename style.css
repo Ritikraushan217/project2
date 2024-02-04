@@ -49,6 +49,8 @@ body {
     background: black;
     color: white;
     padding: 20px;
+    border: 2px solid white;
+    border-radius: 10px;
 }
 
 .section {
